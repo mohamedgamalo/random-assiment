@@ -1,0 +1,45 @@
+
+
+
+.contain{
+    text-align: center;
+    /* background-color: tomato; */
+}
+
+
+h1 {
+    font-weight: 700;
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+
+p{
+    font-size: 35px; 
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 400;
+
+}
+
+
+
+.btn {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: #fff;
+    /* transition: 0.2s background-color ; */
+}
+
+
+.btn:hover {
+    background-color: green;
+}
+
+
+.paragh {
+    font-size: 35px; 
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 400;
+    margin-top: 30px;
+}
